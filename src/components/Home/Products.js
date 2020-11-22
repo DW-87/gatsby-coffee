@@ -25,7 +25,7 @@ const getProducts = graphql`
 
 const Products = () => {
     return (
-        <StaticQuery query={getProducts} render={data => { 
+        <StaticQuery query={getProducts} render={data => {  
             return (
                 <section className="py-5">
                     <div className="container">

@@ -16,7 +16,7 @@ const Contact = () => {
                                 type="text" 
                                 name="name" 
                                 id="name" 
-                                placeholder="John Smith"  
+                                placeholder="John Smith"   
                                 className="form-control"/>
                         </div>  
                          {/* email */}

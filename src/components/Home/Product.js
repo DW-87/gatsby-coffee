@@ -14,7 +14,7 @@ const Product = ({product}) => {
                          data-item-name={product.title}
                          data-item-price={product.price}
                          data-item-image={product.image.fluid.src}
-                         data-item-url="https://gatsbycoffeeapp.netlify.app/" 
+                         data-item-url="https://gatsbycoffeeapp.netlify.app/"  
                          >
                         add to cart
                     </button>
