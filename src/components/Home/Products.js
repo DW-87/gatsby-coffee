@@ -21,7 +21,7 @@ const getProducts = graphql`
       }
     }
   }
-`
+`;
 
 const Products = () => {
     return (
